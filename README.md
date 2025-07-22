@@ -13,4 +13,7 @@
 - git commit -m "(Mensagem do commit)"
 ## push
 - git push origin main | git push origin (nome da branch)
-- 
+## Clone, Fetch e Pull
+- git fetch
+- git status
+- git pull
